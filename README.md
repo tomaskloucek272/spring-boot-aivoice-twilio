@@ -1,2 +1,2 @@
-# spring-boot-aivoice-twilio
-Repository contains sample of howto integrate spring boot with 11ElevenLabs and Twilio
+# spring-boot integration to AI Voice in ElevenLabs backed by Twilio
+
