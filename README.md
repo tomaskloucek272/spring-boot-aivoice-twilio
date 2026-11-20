@@ -1,2 +1,2 @@
-# spring-boot integration to AI Voice in ElevenLabs backed by Twilio
+# spring-boot integration to ElevenLabs backed by Twilio
 
